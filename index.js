@@ -1,5 +1,8 @@
+import cowsay from 'cowsay';
 import Article from "./Article.mjs";
 import { multiplication, del, sum } from "./math.mjs";
+
+console.log(cowsay.say({text: 'Hello World!'}));
 
 console.log('hi from node!');
 

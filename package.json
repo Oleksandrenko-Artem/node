@@ -10,5 +10,8 @@
   "keywords": [],
   "author": "Artem",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
 }
